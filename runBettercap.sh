@@ -1,0 +1,1 @@
+bettercap --no-spoofing --no-discovery --no-sslstrip --proxy  -I eth1 allow-local-connections
